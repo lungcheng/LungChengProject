@@ -28,6 +28,20 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <!-- OpenStreetMap & Leaflet CSS File -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+        }
+        #map {
+            width: 100%;
+            height: 80vh;
+        }
+    </style>
+
     <!-- =======================================================
     * Template Name: Mamba - v2.4.1
     * Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
@@ -64,33 +78,9 @@
     </header><!-- End Header -->
 
     <main id="main">
-
-        <!-- ======= Breadcrumbs Section ======= -->
-        <section class="breadcrumbs">
-            <div class="container">
-
-                <div class="d-flex justify-content-between align-items-center">
-                    <h2>型錄下載</h2>
-                    <ol>
-                        <li><a href="index.html">首頁</a></li>
-                        <li>型錄下載</li>
-                    </ol>
-                </div>
-
-            </div>
-        </section><!-- End Breadcrumbs Section -->
-
-        <section class="inner-page">
-            <div class="container">
-                <h2>自然排煙窗</h2>
-                <ul>
-                    <li>
-                        <a href="/LungChengProject/file/20200319_自然排煙窗型錄.pdf" download="20200319_自然排煙窗型錄">20200319_自然排煙窗型錄.pdf</a>
-                    </li>
-                </ul>
-            </div>
-        </section>
-
+        <div class="container">
+            <div id="map"></div>
+        </div>
     </main><!-- End #main -->
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -152,6 +142,33 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+
+    <!-- OpenStreetMap & Leaflet JS File -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="assets/vendor/leaflet-color-markers-master/js/leaflet-color-markers.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            var map = L.map('map', {
+                center: [23.827690, 121.015503],
+                zoom: 7.5
+            });
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+
+            L.marker([25.035680445246904, 121.44880458406841], { icon: greenIcon }).addTo(map)
+                .bindPopup('自然排煙窗<br/>新莊 泰舍至善元');
+
+            L.marker([24.948667560296787, 121.31849192390425], { icon: greyIcon }).addTo(map)
+                .bindPopup('防煙垂壁<br/>桃園 美超微八德廠');
+            
+        });
+
+
+    </script>
 
 </body>
 
