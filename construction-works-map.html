@@ -81,7 +81,8 @@
     <main id="main">
         <div class="container">
             <div>
-                <button id="ROC_108" type="button" class="btn btn-info">108年</button>
+                <button id="108" type="button" class="btn btn-info rocButtons">108年</button>
+                <button id="109" type="button" class="btn btn-info rocButtons">109年</button>
                 <p></p>
             </div>
             <div id="map"></div>
@@ -162,19 +163,17 @@
         }).addTo(map);
         var markerGroup = L.layerGroup().addTo(map);
 
-        $("#ROC_108").click(function (e) {
-            e.preventDefault;
+
+        $('.rocButtons').click(function (event) {
+            markerGroup.clearLayers();
             $.ajax({
                 type: "get", //使用get方法訪問後臺
                 dataType: "json", //返回json格式的資料
                 async: false, //同步   不寫的情況下 預設為true
                 contentType: "application/x-www-form-urlencoded; charset=utf-8",
-                url: "file/108.json", //要訪問的後臺地址
+                url: "file/" + this.id + ".json", //要訪問的後臺地址
                 success: function (datas, status) {
                     $.each(datas, function (key, data) {
-
-
-
                         if (data.ProductName == "自然排煙窗") {
                             L.marker([data.Latitude, data.Longitude], { icon: greenIcon }).addTo(markerGroup)
                                 .bindPopup(data.ProductName + '<br/>' + data.Unit);

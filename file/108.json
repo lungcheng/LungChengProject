@@ -1,17 +1,10 @@
 [
   {
-    "ROCYear": 107,
-    "Latitude": "25.03964",
-    "Longitude": "121.39098",
-    "ProductName": "自然排煙窗",
-    "Unit": "林口築城宇治"
-  },
-  {
-    "ROCYear": 107,
-    "Latitude": "25.06519",
-    "Longitude": "121.58196",
+    "ROCYear": 108,
+    "Latitude": "23.11760",
+    "Longitude": "120.26448",
     "ProductName": "防煙垂壁",
-    "Unit": "內湖壹電視"
+    "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
@@ -142,6 +135,13 @@
     "Latitude": "24.76746",
     "Longitude": "121.02155",
     "Unit": "聯發科總部2F"
+  },
+  {
+    "ROCYear": 108,
+    "Latitude": "24.77529",
+    "Longitude": "120.99029",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電F6-P2廠"
   },
   {
     "ROCYear": 108,
@@ -286,20 +286,6 @@
     "Longitude": "121.49949",
     "ProductName": "防煙垂壁",
     "Unit": "萬華11F辦公室"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03585",
-    "Longitude": "121.57481",
-    "ProductName": "防煙垂壁",
-    "Unit": "台積電F6-P2廠"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03585",
-    "Longitude": "121.57481",
-    "ProductName": "防煙垂壁",
-    "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
