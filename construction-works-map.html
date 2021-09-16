@@ -89,6 +89,7 @@
             <div>
                 <button id="108" type="button" class="btn btn-info rocButtons">108年</button>
                 <button id="109" type="button" class="btn btn-info rocButtons">109年</button>
+                <button id="110" type="button" class="btn btn-info rocButtons">110年</button>
                 <p></p>
             </div>
             <div id="map"></div>
@@ -182,10 +183,10 @@
                 success: function (datas, status) {
                     $.each(datas, function (key, data) {
                         if (data.ProductName == "自然排煙窗") {
-                            L.marker([data.Latitude, data.Longitude], { icon: greenIcon }).addTo(markerGroup)
+                            L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greenIcon }).addTo(markerGroup)
                                 .bindPopup(data.ProductName + '<br/>' + data.Unit);
                         } else if (data.ProductName == "防煙垂壁") {
-                            L.marker([data.Latitude, data.Longitude], { icon: greyIcon }).addTo(markerGroup)
+                            L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greyIcon }).addTo(markerGroup)
                                 .bindPopup(data.ProductName + '<br/>' + data.Unit);
                         }
                     });
@@ -194,7 +195,7 @@
         });
 
         $(document).ready(function () {
-            $("#109").trigger("click");
+            $("#110").trigger("click");
         });
     </script>
 

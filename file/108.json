@@ -1,441 +1,854 @@
 [
   {
     "ROCYear": 108,
-    "Latitude": "23.11760",
-    "Longitude": "120.26448",
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
     "ProductName": "防煙垂壁",
     "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "23.52527",
-    "Longitude": "120.42128",
-    "ProductName": "自然排煙窗",
-    "Unit": "央北泰昇"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.14214",
-    "Longitude": "120.64663",
-    "ProductName": "自然排煙窗",
-    "Unit": "台中帝國之心"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.15695",
-    "Longitude": "120.64223",
-    "ProductName": "防煙垂壁",
-    "Unit": "日月千禧酒店"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.48664",
-    "Longitude": "120.78796",
+    "MarkerLatitude": "24.48664",
+    "MarkerLongitude": "120.78796",
     "ProductName": "防煙垂壁",
     "Unit": "京元銅鑼廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "Unit": "頭城1796"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "Unit": "藝德勳章大樓"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "自然排煙窗",
-    "Unit": "力富得"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "自然排煙窗",
-    "Unit": "公司-聖嘉民"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "自然排煙窗",
-    "Unit": "宜蘭明日馥案"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
+    "MarkerLatitude": "24.48664",
+    "MarkerLongitude": "120.78796",
     "ProductName": "防煙垂壁",
-    "Unit": "三富農場"
+    "Unit": "京元銅鑼廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "板橋遠東13-14"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "板橋遠東-14F"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "博愛醫院5樓"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "傳藝中心展示館"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "礁溪大小基地"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.67372",
-    "Longitude": "121.78092",
-    "ProductName": "防煙垂壁",
-    "Unit": "羅東博愛醫院"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.69551",
-    "Longitude": "121.75665",
+    "MarkerLatitude": "24.82727",
+    "MarkerLongitude": "121.77448",
     "ProductName": "防煙垂壁",
     "Unit": "宜蘭湯仔城郵局"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.742937",
-    "Longitude": "121.7681951",
+    "MarkerLatitude": "25.06222",
+    "MarkerLongitude": "121.63994",
     "ProductName": "自然排煙窗",
-    "Unit": "宜蘭中興文創"
+    "Unit": "汐止樟樹航電2F"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.76746",
-    "Longitude": "121.02155",
-    "Unit": "聯發科總部2F"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.77529",
-    "Longitude": "120.99029",
-    "ProductName": "防煙垂壁",
-    "Unit": "台積電F6-P2廠"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.80041",
-    "Longitude": "120.98668",
-    "ProductName": "防煙垂壁",
-    "Unit": "新竹工研院"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.92619",
-    "Longitude": "121.10369",
-    "Unit": "新店央北"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.92619",
-    "Longitude": "121.10369",
-    "Unit": "鉅陞建設"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.92693",
-    "Longitude": "121.28165",
+    "MarkerLatitude": "24.92693",
+    "MarkerLongitude": "121.28165",
     "ProductName": "自然排煙窗",
     "Unit": "八德611-梯廳"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.9275",
-    "Longitude": "121.41556",
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
     "ProductName": "自然排煙窗",
-    "Unit": "八德二號基地"
+    "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "24.96061",
-    "Longitude": "121.53823",
-    "Unit": "新店雙水灣"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.96061",
-    "Longitude": "121.53823",
-    "ProductName": "自然排煙窗",
-    "Unit": "新店雙水灣"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.96586",
-    "Longitude": "121.22489",
-    "ProductName": "自然排煙窗",
-    "Unit": "英倫花園"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.96769",
-    "Longitude": "121.13929",
-    "ProductName": "自然排煙窗",
-    "Unit": "日和花園"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.97834",
-    "Longitude": "121.53121",
-    "ProductName": "自然排煙窗",
-    "Unit": "御中央"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.98231",
-    "Longitude": "121.24024",
-    "ProductName": "自然排煙窗",
-    "Unit": "中壢區智偉織造"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "24.98452",
-    "Longitude": "121.56234",
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
     "ProductName": "防煙垂壁",
-    "Unit": "合鳳段垂壁"
+    "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.0048",
-    "Longitude": "121.48536",
-    "ProductName": "防煙垂壁",
-    "Unit": "冠彰中和案"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.00595",
-    "Longitude": "121.47691",
+    "MarkerLatitude": "24.76981",
+    "MarkerLongitude": "121.02154",
     "ProductName": "自然排煙窗",
-    "Unit": "汐止區保安段"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.008",
-    "Longitude": "121.20097",
-    "ProductName": "自然排煙窗",
-    "Unit": "新潤國都苑"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.00953",
-    "Longitude": "121.45933",
-    "ProductName": "自然排煙窗",
-    "Unit": "荷藍灣"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.01626",
-    "Longitude": "121.22181",
-    "ProductName": "自然排煙窗",
-    "Unit": "英倫花園"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03276",
-    "Longitude": "121.43515",
-    "ProductName": "自然排煙窗",
-    "Unit": "江翠段休閒會館"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03276",
-    "Longitude": "121.43515",
-    "ProductName": "自然排煙窗",
-    "Unit": "麗京棧酒店"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.0340665",
-    "Longitude": "121.4672551",
-    "ProductName": "自然排煙窗",
-    "Unit": "荷蘭灣2期"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03536",
-    "Longitude": "121.49949",
-    "ProductName": "防煙垂壁",
-    "Unit": "萬華11F辦公室"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.03585",
-    "Longitude": "121.57481",
-    "ProductName": "防煙垂壁",
-    "Unit": "新豐全家"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.0382",
-    "Longitude": "121.5193",
-    "ProductName": "防煙垂壁",
-    "Unit": "中正運動中心"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
-    "Unit": "聯發科大樓"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
-    "ProductName": "防煙垂壁",
-    "Unit": "汐止樟樹航電2F"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
-    "ProductName": "防煙垂壁",
     "Unit": "聯發科~10樓"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
-    "ProductName": "防煙垂壁",
-    "Unit": "聯發科~1樓"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
+    "MarkerLatitude": "24.76981",
+    "MarkerLongitude": "121.02154",
     "ProductName": "防煙垂壁",
     "Unit": "聯發科~3樓"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.04123",
-    "Longitude": "121.55242",
-    "ProductName": "防煙垂壁",
-    "Unit": "聯發科1~10樓"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.04521",
-    "Longitude": "121.52527",
+    "MarkerLatitude": "25.19271",
+    "MarkerLongitude": "121.43531",
     "ProductName": "自然排煙窗",
-    "Unit": "福和國泰世華"
+    "Unit": "新潤峰采陽光區"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.04993",
-    "Longitude": "121.5632",
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
     "ProductName": "防煙垂壁",
-    "Unit": "國泰世華5樓"
+    "Unit": "台積電台南18廠"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.05191",
-    "Longitude": "121.52562",
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.14869",
+    "MarkerLongitude": "120.64625",
     "ProductName": "自然排煙窗",
-    "Unit": "麥當勞南京店"
+    "Unit": "台中帝國之心"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.06251",
-    "Longitude": "121.51374",
-    "ProductName": "防煙垂壁",
-    "Unit": "辰昇網路"
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.06875",
-    "Longitude": "121.2198",
+    "MarkerLatitude": "25.06935",
+    "MarkerLongitude": "121.22032",
     "ProductName": "防煙垂壁",
     "Unit": "長榮航勤"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.07448",
-    "Longitude": "121.66625",
-    "ProductName": "自然排煙窗",
-    "Unit": "橋正汐止成華君勻"
+    "MarkerLatitude": "24.76981",
+    "MarkerLongitude": "121.02154",
+    "Unit": "聯發科大樓"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.08169",
-    "Longitude": "121.47156",
+    "MarkerLatitude": "25.00828",
+    "MarkerLongitude": "121.2011",
+    "ProductName": "自然排煙窗",
+    "Unit": "新潤國都苑"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0340665",
+    "MarkerLongitude": "121.4672551",
+    "ProductName": "自然排煙窗",
+    "Unit": "河藍灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.01626",
+    "MarkerLongitude": "121.22181",
+    "ProductName": "自然排煙窗",
+    "Unit": "英倫花園"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0913023",
+    "MarkerLongitude": "121.4646848",
     "ProductName": "自然排煙窗",
     "Unit": "蘆洲捷六案"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.08608",
-    "Longitude": "121.44348",
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
     "ProductName": "自然排煙窗",
-    "Unit": "五股區芳洲段82地號"
+    "Unit": "央北A~D棟"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.09606",
-    "Longitude": "121.52814",
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.76981",
+    "MarkerLongitude": "121.02154",
+    "ProductName": "防煙垂壁",
+    "Unit": "聯發科~1樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11002",
+    "MarkerLongitude": "120.27325",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電F6-P2廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.00481",
+    "MarkerLongitude": "121.48511",
+    "ProductName": "防煙垂壁",
+    "Unit": "冠彰建設中和區"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0382",
+    "MarkerLongitude": "121.5193",
+    "ProductName": "防煙垂壁",
+    "Unit": "中正運動中心"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.92774",
+    "MarkerLongitude": "121.28885",
+    "ProductName": "自然排煙窗",
+    "Unit": "八德二號基地"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.16106",
+    "MarkerLongitude": "121.41876",
+    "ProductName": "自然排煙窗",
+    "Unit": "台北晴灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.76746",
+    "MarkerLongitude": "121.02155",
+    "ProductName": "自然排煙窗",
+    "Unit": "聯發科總部2F"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0913023",
+    "MarkerLongitude": "121.4646848",
+    "ProductName": "自然排煙窗",
+    "Unit": "蘆洲捷六案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.03319",
+    "MarkerLongitude": "121.50272",
+    "ProductName": "自然排煙窗",
+    "Unit": "台北市立聯合醫院萬華辦公室11F辦公室"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.75458",
+    "MarkerLongitude": "121.75226",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭明日馥案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.67179",
+    "MarkerLongitude": "121.77141",
+    "ProductName": "防煙垂壁",
+    "Unit": "博愛醫院5樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "自然排煙窗",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.15695",
+    "MarkerLongitude": "120.64223",
+    "ProductName": "防煙垂壁",
+    "Unit": "日月千禧酒店"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0913023",
+    "MarkerLongitude": "121.4646848",
+    "ProductName": "自然排煙窗",
+    "Unit": "蘆洲捷六案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.03319",
+    "MarkerLongitude": "121.50272",
+    "ProductName": "自然排煙窗",
+    "Unit": "台北市立聯合醫院萬華辦公室11F辦公室"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.75458",
+    "MarkerLongitude": "121.75226",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭明日馥案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.75458",
+    "MarkerLongitude": "121.75226",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭明日馥案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.67179",
+    "MarkerLongitude": "121.77141",
+    "ProductName": "防煙垂壁",
+    "Unit": "博愛醫院5樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.67179",
+    "MarkerLongitude": "121.77141",
+    "ProductName": "防煙垂壁",
+    "Unit": "羅東博愛醫院"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.00725",
+    "MarkerLongitude": "121.51472",
+    "ProductName": "自然排煙窗",
+    "Unit": "福和國泰世華"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.09606",
+    "MarkerLongitude": "121.52814",
     "ProductName": "自然排煙窗",
     "Unit": "士林麥當勞"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.15",
-    "Longitude": "121.4103",
-    "Unit": "台北晴灣"
+    "MarkerLatitude": "24.76981",
+    "MarkerLongitude": "121.02154",
+    "ProductName": "防煙垂壁",
+    "Unit": "聯發科1~10樓"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.15",
-    "Longitude": "121.4103",
+    "MarkerLatitude": "25.03232",
+    "MarkerLongitude": "121.41973",
+    "ProductName": "自然排煙窗",
+    "Unit": "麗京棧酒店"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.97834",
+    "MarkerLongitude": "121.53121",
+    "ProductName": "自然排煙窗",
+    "Unit": "御中央"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.6859",
+    "MarkerLongitude": "121.82407",
+    "ProductName": "防煙垂壁",
+    "Unit": "傳藝中心展示館"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.00787",
+    "MarkerLongitude": "121.21945",
+    "ProductName": "自然排煙窗",
+    "Unit": "日和花園"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.01626",
+    "MarkerLongitude": "121.22181",
+    "ProductName": "自然排煙窗",
+    "Unit": "英倫花園"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98288",
+    "MarkerLongitude": "121.52613",
+    "ProductName": "自然排煙窗",
+    "Unit": "央北A~D棟"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.05191",
+    "MarkerLongitude": "121.52562",
+    "ProductName": "自然排煙窗",
+    "Unit": "麥當勞南京店"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.6511",
+    "MarkerLongitude": "121.83594",
+    "ProductName": "自然排煙窗",
+    "Unit": "力富得"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.61738",
+    "MarkerLongitude": "121.75469",
+    "ProductName": "防煙垂壁",
+    "Unit": "三富農場"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.66642",
+    "MarkerLongitude": "121.70667",
+    "ProductName": "自然排煙窗",
+    "Unit": "公司-聖嘉民"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.69019",
+    "MarkerLongitude": "121.77112",
+    "ProductName": "自然排煙窗",
+    "Unit": "藝德勳章大樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.07472",
+    "MarkerLongitude": "121.66634",
+    "ProductName": "自然排煙窗",
+    "Unit": "橋正汐止成華君勻"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.06251",
+    "MarkerLongitude": "121.51374",
+    "ProductName": "防煙垂壁",
+    "Unit": "辰昇網路"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "23.11455",
+    "MarkerLongitude": "120.26003",
+    "ProductName": "防煙垂壁",
+    "Unit": "台積電台南18廠"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.08719",
+    "MarkerLongitude": "121.44514",
+    "ProductName": "自然排煙窗",
+    "Unit": "五股芳洲段41梯廳"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.16106",
+    "MarkerLongitude": "121.41876",
     "ProductName": "自然排煙窗",
     "Unit": "台北晴灣"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.17139",
-    "Longitude": "121.44102",
-    "Unit": "央北A~D棟"
-  },
-  {
-    "ROCYear": 108,
-    "Latitude": "25.17139",
-    "Longitude": "121.44102",
+    "MarkerLatitude": "24.69313",
+    "MarkerLongitude": "121.76995",
     "ProductName": "自然排煙窗",
-    "Unit": "央北A~D棟"
+    "Unit": "宜蘭中興文創"
   },
   {
     "ROCYear": 108,
-    "Latitude": "25.19271",
-    "Longitude": "121.43531",
+    "MarkerLatitude": "24.69313",
+    "MarkerLongitude": "121.76995",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭中興文創"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.69313",
+    "MarkerLongitude": "121.76995",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭中興文創"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.19271",
+    "MarkerLongitude": "121.43531",
     "ProductName": "自然排煙窗",
     "Unit": "新潤峰采陽光區"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.09241",
+    "MarkerLongitude": "121.44776",
+    "ProductName": "自然排煙窗",
+    "Unit": "五股區芳洲段82地號"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.80065",
+    "MarkerLongitude": "120.9877",
+    "ProductName": "防煙垂壁",
+    "Unit": "新竹工研院"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0048",
+    "MarkerLongitude": "121.48536",
+    "ProductName": "防煙垂壁",
+    "Unit": "冠彰中和案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.96035",
+    "MarkerLongitude": "121.53835",
+    "ProductName": "自然排煙窗",
+    "Unit": "新店雙水灣"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0913023",
+    "MarkerLongitude": "121.4646848",
+    "ProductName": "自然排煙窗",
+    "Unit": "蘆洲捷六案"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.03282",
+    "MarkerLongitude": "121.55827",
+    "ProductName": "防煙垂壁",
+    "Unit": "國泰世華5樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.98231",
+    "MarkerLongitude": "121.24024",
+    "ProductName": "自然排煙窗",
+    "Unit": "中壢區智偉織造"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.69313",
+    "MarkerLongitude": "121.76995",
+    "ProductName": "自然排煙窗",
+    "Unit": "宜蘭中興文創"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.67179",
+    "MarkerLongitude": "121.77141",
+    "ProductName": "防煙垂壁",
+    "Unit": "博愛醫院5樓"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "24.86304",
+    "MarkerLongitude": "121.82273",
+    "ProductName": "自然排煙窗",
+    "Unit": "頭城1796"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.01626",
+    "MarkerLongitude": "121.22181",
+    "ProductName": "自然排煙窗",
+    "Unit": "英倫花園"
+  },
+  {
+    "ROCYear": 108,
+    "MarkerLatitude": "25.0340665",
+    "MarkerLongitude": "121.4672551",
+    "ProductName": "自然排煙窗",
+    "Unit": "河蘭灣2期"
   }
 ]
