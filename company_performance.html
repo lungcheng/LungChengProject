@@ -38,10 +38,6 @@
             height: 100%;
         }
 
-        #map {
-            width: 100%;
-            height: 80vh;
-        }
     </style>
 
     <!-- =======================================================
@@ -95,16 +91,7 @@
 
     <main id="main">
         <div class="container">
-            <h1 id="currentYear">112</h1>
-            <div>
-                <button id="108" type="button" class="btn btn-info rocButtons">108年</button>
-                <button id="109" type="button" class="btn btn-info rocButtons">109年</button>
-                <button id="110" type="button" class="btn btn-info rocButtons">110年</button>
-                <button id="111" type="button" class="btn btn-info rocButtons">111年</button>
-                <button id="112" type="button" class="btn btn-info rocButtons">112年</button>
-                <p></p>
-            </div>
-            <div id="map"></div>
+            <iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQS70NlQ0XVWc8nEW-icze4ODBZRGz68eXor1kQi1EteYy79Kcw6EL4I6pzXdNOBQ/pubhtml?gid=971583427&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         </div>
     </main><!-- End #main -->
     <!-- ======= Footer ======= -->
@@ -174,53 +161,7 @@
     <script src="assets/vendor/leaflet-color-markers-master/js/leaflet-color-markers.js"></script>
 
     <script>
-        var map = L.map('map', {
-            center: [23.827690, 121.015503],
-            zoom: 7
-        });
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
-        var markerGroup = L.layerGroup().addTo(map);
 
-
-        $('.rocButtons').click(function (event) {
-            markerGroup.clearLayers();
-            $('#currentYear').text("目前觀看民國" + this.id + "年");
-            $.ajax({
-                type: "get", //使用get方法訪問後臺
-                dataType: "json", //返回json格式的資料
-                async: false, //同步   不寫的情況下 預設為true
-                contentType: "application/x-www-form-urlencoded; charset=utf-8",
-                url: "file/" + this.id + ".json", //要訪問的後臺地址
-                success: function (datas, status) {
-                    $.each(datas, function (key, data) {
-                        if (data.ProductName == "自然排煙窗") {
-                            if (data.AlbumUrl != null) {
-                                L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greenIcon }).addTo(markerGroup)
-                                    .bindPopup(data.ProductName + '<br/>' + data.Unit + '<br/>' + "<a href=" + data.AlbumUrl + ">看照片</a>");
-                            } else {
-                                L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greenIcon }).addTo(markerGroup)
-                                    .bindPopup(data.ProductName + '<br/>' + data.Unit);
-                            }
-                        } else if (data.ProductName == "防煙垂壁") {
-                            if (data.AlbumUrl != null) {
-                                L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greyIcon }).addTo(markerGroup)
-                                    .bindPopup(data.ProductName + '<br/>' + data.Unit + '<br/>' + "<a href=" + data.AlbumUrl + ">看照片</a>");
-                            } else {
-                                L.marker([data.MarkerLatitude, data.MarkerLongitude], { icon: greyIcon }).addTo(markerGroup)
-                                    .bindPopup(data.ProductName + '<br/>' + data.Unit);
-
-                            }
-                        }
-                    });
-                }
-            });
-        });
-
-        $(document).ready(function () {
-            $("#112").trigger("click");
-        });
     </script>
 
 </body>
